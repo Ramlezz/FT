@@ -1,0 +1,44 @@
+[
+  {
+    "id": "faq-01",
+    "categorie": "Emplois du temps",
+    "question": "Comment consulter et télécharger l'emploi du temps de mon groupe ?",
+    "reponse": "Rendez-vous dans la rubrique « Emplois du temps », sélectionnez successivement votre département, votre niveau, votre spécialité et votre groupe. Le planning hebdomadaire s'affiche aussitôt avec deux boutons en haut à droite permettant d'imprimer directement ou de générer un fichier PDF."
+  },
+  {
+    "id": "faq-02",
+    "categorie": "Emplois du temps",
+    "question": "Que faire si un changement de salle ou d'horaire survient en cours de semestre ?",
+    "reponse": "Les modifications urgentes sont publiées dans la section « Actualités » ainsi que dans le panneau de notifications en haut du portail. En cas d'incohérence persistante, utilisez le formulaire « Réclamations » en précisant le module concerné."
+  },
+  {
+    "id": "faq-03",
+    "categorie": "Listes & Inscriptions",
+    "question": "Comment vérifier mon affectation dans un groupe de TD/TP ?",
+    "reponse": "Ouvrez la page « Listes des étudiants », filtrez par votre département, niveau, spécialité et groupe, ou tapez directement votre matricule ou votre nom dans la barre de recherche instantanée. Vous pouvez également exporter la liste en format PDF ou Excel (.xlsx)."
+  },
+  {
+    "id": "faq-04",
+    "categorie": "Listes & Inscriptions",
+    "question": "Les données affichées sur FT CONNECT sont-elles officielles ?",
+    "reponse": "Les informations générales sur l'Université M'Hamed Bougara de Boumerdès (Faculté des Sciences · Campus Sud et Faculté de Technologie · Campus Ouest) correspondent aux campus officiels. En revanche, les noms d'étudiants, d'enseignants et les plannings affichés sont des données de démonstration (projet M2RT 2026-2027)."
+  },
+  {
+    "id": "faq-05",
+    "categorie": "Réclamations",
+    "question": "Ma réclamation est-elle transmise par email au secrétariat ?",
+    "reponse": "Dans cette architecture 100 % statique hébergeable gratuitement sans serveur, vos réclamations sont validées et enregistrées dans le stockage local de votre navigateur (LocalStorage) à titre de démonstration. Pour un envoi réel par email ou base centrale, il suffit de relier le formulaire à un backend ou à un service externe (Formspree, Netlify Forms, EmailJS)."
+  },
+  {
+    "id": "faq-06",
+    "categorie": "Général",
+    "question": "Comment contacter rapidement un enseignant pour une permanence ou un PFE ?",
+    "reponse": "Consultez l'« Annuaire des enseignants », recherchez l'enseignant par son nom, son département ou sa spécialité, puis cliquez sur le bouton « Envoyer un email » pour ouvrir votre messagerie avec son adresse pré-remplie."
+  },
+  {
+    "id": "faq-07",
+    "categorie": "Général",
+    "question": "Comment ajouter un nouveau département dans la plateforme ?",
+    "reponse": "Sur la page « Départements », un bouton « Ajouter un département (Démo) » permet de tester l'ajout immédiat dans votre navigateur. Pour un ajout permanent dans le code source HTML/CSS/JS, il suffit de modifier data/departements.json et js/data.js."
+  }
+]

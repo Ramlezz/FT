@@ -1,0 +1,83 @@
+[
+  {
+    "id": "cal-01",
+    "titre": "Rentrée universitaire & accueil des promotions 2026-2027",
+    "type": "Rentrée",
+    "dateDebut": "2026-09-21",
+    "dateFin": "2026-09-25",
+    "description": "Inscriptions pédagogiques finales, remise des emplois du temps et réunion d'orientation par département.",
+    "concerne": "Tous les départements (L3 · M1 · M2)"
+  },
+  {
+    "id": "cal-02",
+    "titre": "Journée Technique Réseaux Optiques & Cybersécurité",
+    "type": "Événement",
+    "dateDebut": "2026-12-09",
+    "dateFin": "2026-12-09",
+    "description": "Conférences et démonstrations en laboratoire au Bâtiment B et à l'amphithéâtre central.",
+    "concerne": "Départements GET & GIS"
+  },
+  {
+    "id": "cal-03",
+    "titre": "Date limite de choix des sujets PFE M2RT",
+    "type": "Événement",
+    "dateDebut": "2026-12-18",
+    "dateFin": "2026-12-18",
+    "description": "Remise des fiches de vœux signées auprès de la coordination pédagogique du département GET.",
+    "concerne": "Master 2 Réseaux & Télécoms (M2RT)"
+  },
+  {
+    "id": "cal-04",
+    "titre": "Vacances universitaires d'hiver",
+    "type": "Vacances",
+    "dateDebut": "2026-12-24",
+    "dateFin": "2027-01-03",
+    "description": "Suspension des cours, TD et TP sur l'ensemble des campus de l'UMBB (Campus Ouest & Campus Sud).",
+    "concerne": "Faculté des Sciences & Faculté de Technologie"
+  },
+  {
+    "id": "cal-05",
+    "titre": "Examens finaux du Semestre Impair (S1 / S3 / S5)",
+    "type": "Examens",
+    "dateDebut": "2027-01-10",
+    "dateFin": "2027-01-22",
+    "description": "Épreuves écrites et pratiques selon les plannings affichés par spécialité et groupe.",
+    "concerne": "Licence & Master (UMBB)"
+  },
+  {
+    "id": "cal-06",
+    "titre": "Début des cours du Semestre Pair (S2 / S4 / S6)",
+    "type": "Rentrée",
+    "dateDebut": "2027-02-01",
+    "dateFin": "2027-02-01",
+    "description": "Reprise des enseignements et activation des nouveaux emplois du temps du second semestre.",
+    "concerne": "Faculté des Sciences & Faculté de Technologie"
+  },
+  {
+    "id": "cal-07",
+    "titre": "Vacances universitaires de printemps",
+    "type": "Vacances",
+    "dateDebut": "2027-03-20",
+    "dateFin": "2027-04-04",
+    "description": "Pause pédagogique de printemps à l'UMBB Boumerdès.",
+    "concerne": "Toute l'université"
+  },
+  {
+    "id": "cal-08",
+    "titre": "Examens finaux du Semestre Pair & Rattrapages",
+    "type": "Examens",
+    "dateDebut": "2027-05-16",
+    "dateFin": "2027-06-03",
+    "description": "Session ordinaire du second semestre suivie des épreuves de rattrapage.",
+    "concerne": "Licence & Master (UMBB)"
+  },
+  {
+    "id": "cal-09",
+    "titre": "Soutenances des mémoires de Master (M2RT & autres spécialités)",
+    "type": "Soutenances",
+    "dateDebut": "2027-06-14",
+    "dateFin": "2027-06-28",
+    "description": "Présentation publique des projets de fin d'études devant les jurys de chaque département.",
+    "concerne": "Master 2 (FS & FT)"
+  }
+]

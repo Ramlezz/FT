@@ -1,0 +1,72 @@
+[
+  {
+    "id": "act-01",
+    "titre": "Ouverture de la campagne des projets de fin d'études M2RT 2026-2027",
+    "categorie": "Pédagogie",
+    "departementId": "get",
+    "date": "2026-11-24",
+    "resume": "Les fiches de proposition de sujets PFE pour le Master 2 Réseaux et Télécommunications (UMBB · Campus Ouest) sont disponibles.",
+    "contenu": "Les étudiants inscrits en Master 2 Réseaux et Télécommunications (M2RT) ainsi que dans les spécialités connexes de la Faculté de Technologie de l'UMBB Boumerdès sont invités à déposer leur choix de binôme et trois vœux de sujets avant le 18 décembre 2026. Les soutenances de mi-parcours se tiendront en avril 2027 à la Cité Frantz Fanon (Campus Ouest). Les encadreurs peuvent consulter les créneaux de permanence affichés sur l'annuaire FT CONNECT.",
+    "auteur": "Direction des Études · FT UMBB",
+    "image": "./assets/images/news_conference_hall_1795627237347.jpg",
+    "aLaUne": true
+  },
+  {
+    "id": "act-02",
+    "titre": "Calendrier prévisionnel des examens du Semestre Impair (S1 / S3 / S5)",
+    "categorie": "Examens",
+    "departementId": "all",
+    "date": "2026-11-20",
+    "resume": "Publication des dates de contrôles continus et des épreuves finales de janvier 2027 pour la Faculté des Sciences et la Faculté de Technologie.",
+    "contenu": "Les décanats de la Faculté des Sciences (Campus Sud) et de la Faculté de Technologie (Campus Ouest) de l'Université M'Hamed Bougara de Boumerdès informent les étudiants que la session normale des examens du semestre impair se déroulera du 10 au 22 janvier 2027. Veuillez vérifier votre affectation par groupe avant le 15 décembre et signaler toute anomalie via le module Réclamations.",
+    "auteur": "Vice-Décanat Pédagogie · UMBB",
+    "image": "./assets/images/hero_campus_tech_1795627236147.jpg",
+    "aLaUne": false
+  },
+  {
+    "id": "act-03",
+    "titre": "Journée Technique : Réseaux Optiques, IA et Cybersécurité à Boumerdès",
+    "categorie": "Événement",
+    "departementId": "gis",
+    "date": "2026-11-16",
+    "resume": "Conférences plénières et ateliers pratiques organisés conjointement entre la Faculté des Sciences (Campus Sud) et la Faculté de Technologie.",
+    "contenu": "La Faculté des Sciences (Route de la Gare Ferroviaire, Campus Sud) et la Faculté de Technologie organisent le 09 décembre 2026 une journée thématique consacrée à la convergence entre réseaux programmables (SDN), intelligence artificielle et cybersécurité. Inscription ouverte aux étudiants de L3, M1 et M2 dans la limite des places de l'amphithéâtre.",
+    "auteur": "Comité Scientifique UMBB",
+    "image": "./assets/images/dept_computing_lab_1795627237136.jpg",
+    "aLaUne": false
+  },
+  {
+    "id": "act-04",
+    "titre": "Mise en service du nouveau banc d'essais de fatigue structurale (Campus Ouest)",
+    "categorie": "Recherche",
+    "departementId": "gmp",
+    "date": "2026-11-12",
+    "resume": "Les étudiants de Génie Mécanique et Génie Civil disposent d'un nouvel équipement d'analyse de déformation à la Cité Frantz Fanon.",
+    "contenu": "Le laboratoire commun des départements GM et GC de la Faculté de Technologie (Campus Ouest, Boumerdès) s'équipe d'un système d'acquisition multipoints pour les travaux pratiques de résistance des matériaux et de dynamique des structures. Les créneaux de TP ont été intégrés aux emplois du temps du semestre.",
+    "auteur": "Service Équipements · FT UMBB",
+    "image": "./assets/images/dept_mechanics_civil_1795627238276.jpg",
+    "aLaUne": false
+  },
+  {
+    "id": "act-05",
+    "titre": "Procédure de dépôt des réclamations de notes et corrections de listes",
+    "categorie": "Administration",
+    "departementId": "all",
+    "date": "2026-11-08",
+    "resume": "Rappel des délais réglementaires pour signaler une erreur de groupe, d'emploi du temps ou de note (FS & FT Boumerdès).",
+    "contenu": "Afin d'accélérer le traitement administratif au sein des scolarités de la Faculté des Sciences et de la Faculté de Technologie, chaque étudiant est invité à sélectionner précisément son département, son niveau et son groupe lors du dépôt d'une réclamation. Dans cette version démonstration de FT CONNECT, les demandes sont sauvegardées localement.",
+    "auteur": "Scolarité Centrale · UMBB",
+    "aLaUne": false
+  },
+  {
+    "id": "act-06",
+    "titre": "Atelier de simulation hydraulique et traitement des eaux (Campus Ouest)",
+    "categorie": "Pédagogie",
+    "departementId": "gpe",
+    "date": "2026-11-04",
+    "resume": "Séance encadrée ouverte aux étudiants de Master Génie de l'Environnement et Génie Civil au département Génie des Procédés.",
+    "contenu": "Le département Génie des Procédés de la Faculté de Technologie (UMBB Boumerdès) organise un atelier pratique sur la modélisation des stations d'épuration et l'analyse physico-chimique des effluents industriels. Support de cours remis en séance.",
+    "auteur": "Département GP · FT UMBB",
+    "aLaUne": false
+  }
+]

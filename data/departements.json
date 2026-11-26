@@ -1,0 +1,283 @@
+[
+  {
+    "id": "get",
+    "code": "GSE",
+    "faculte": "Faculté de Technologie",
+    "nom": "Génie des Systèmes Électriques & Télécoms",
+    "nomCourt": "Systèmes Électriques",
+    "description": "Département de la Faculté de Technologie (Campus Ouest, Cité Frantz Fanon) : réseaux mobiles, systèmes hyperfréquences, électrotechnique et automatique.",
+    "presentationLongue": "Rattaché à la Faculté de Technologie de l'Université M'Hamed Bougara de Boumerdès (UMBB) au Campus Ouest (Cité Frantz Fanon), ce département forme des licenciés et masters en systèmes électriques, réseaux et télécommunications (dont le parcours M2RT) ainsi qu'en automatisation industrielle.",
+    "responsable": {
+      "nom": "Pr. Karim Benali",
+      "grade": "Professeur (Démo)",
+      "email": "k.benali@umbb-demo.edu",
+      "bureau": "Campus Ouest · Cité Frantz Fanon · Bloc A"
+    },
+    "coordonnees": {
+      "batiment": "Campus Ouest — Cité Frantz Fanon, 35000 Boumerdès",
+      "telephone": "Secrétariat Faculté de Technologie (Démo)",
+      "emailSecretariat": "ft.gse@umbb-demo.edu",
+      "horairesAccueil": "Dimanche au Jeudi · 08h30 – 15h30"
+    },
+    "image": "./assets/images/dept_telecom_lab_1795627236264.jpg",
+    "laboratoires": [
+      "Laboratoire Systèmes Hyperfréquences & Antennes",
+      "Plateforme Fibres Optiques & Réseaux Haut Débit",
+      "Salle Traitement Numérique du Signal (DSP/FPGA)"
+    ],
+    "niveaux": ["L3", "M1", "M2"],
+    "specialites": [
+      {
+        "id": "telecom-l3",
+        "nom": "Télécommunications",
+        "niveau": "L3",
+        "groupes": ["G1", "G2"]
+      },
+      {
+        "id": "rt-m1",
+        "nom": "Réseaux et Télécommunications (M1)",
+        "niveau": "M1",
+        "groupes": ["G1", "G2"]
+      },
+      {
+        "id": "m2rt",
+        "nom": "Réseaux et Télécommunications (M2RT)",
+        "niveau": "M2",
+        "groupes": ["G1", "G2"]
+      },
+      {
+        "id": "se-m2",
+        "nom": "Systèmes Embarqués",
+        "niveau": "M2",
+        "groupes": ["G1"]
+      }
+    ]
+  },
+  {
+    "id": "gis",
+    "code": "INFO",
+    "faculte": "Faculté des Sciences",
+    "nom": "Département d'Informatique",
+    "nomCourt": "Informatique (FS)",
+    "description": "Département de la Faculté des Sciences (Campus Sud, Route de la Gare Ferroviaire) : génie logiciel, systèmes d'information, cybersécurité et intelligence artificielle.",
+    "presentationLongue": "Implanté au Campus Sud (Route de la Gare Ferroviaire, 35000 Boumerdès) au sein de la Faculté des Sciences de l'UMBB, le Département d'Informatique dispense des formations Licence et Master en systèmes informatiques, ingénierie logicielle et science des données.",
+    "responsable": {
+      "nom": "Dr. Nadia Mansouri",
+      "grade": "Maître de Conférences A (Démo)",
+      "email": "n.mansouri@umbb-demo.edu",
+      "bureau": "Campus Sud · Route de la Gare · Bloc B"
+    },
+    "coordonnees": {
+      "batiment": "Campus Sud — Route de la Gare Ferroviaire, 35000 Boumerdès",
+      "telephone": "Secrétariat Faculté des Sciences (Démo)",
+      "emailSecretariat": "fs.info@umbb-demo.edu",
+      "horairesAccueil": "Dimanche au Jeudi · 08h30 – 16h00"
+    },
+    "image": "./assets/images/dept_computing_lab_1795627237136.jpg",
+    "laboratoires": [
+      "Studio Génie Logiciel & Cloud Computing",
+      "Laboratoire Cybersécurité & Réseaux Virtuels",
+      "Pôle Calcul Scientifique & Science des Données"
+    ],
+    "niveaux": ["L3", "M1", "M2"],
+    "specialites": [
+      {
+        "id": "si-l3",
+        "nom": "Systèmes d'Information",
+        "niveau": "L3",
+        "groupes": ["G1", "G2"]
+      },
+      {
+        "id": "il-m1",
+        "nom": "Ingénierie Logicielle",
+        "niveau": "M1",
+        "groupes": ["G1"]
+      },
+      {
+        "id": "ia-m2",
+        "nom": "Intelligence Artificielle & Systèmes",
+        "niveau": "M2",
+        "groupes": ["G1", "G2"]
+      }
+    ]
+  },
+  {
+    "id": "gmp",
+    "code": "GM",
+    "faculte": "Faculté de Technologie",
+    "nom": "Département de Génie Mécanique",
+    "nomCourt": "Génie Mécanique",
+    "description": "Département de la Faculté de Technologie (Campus Ouest, Cité Frantz Fanon) : construction mécanique, énergétique, matériaux et maintenance industrielle.",
+    "presentationLongue": "Situé à la Cité Frantz Fanon (Campus Ouest, Boumerdès), le Département de Génie Mécanique de l'UMBB couvre la conception mécanique, la fabrication assistée par ordinateur, l'énergétique et la maintenance des équipements industriels.",
+    "responsable": {
+      "nom": "Pr. Youssef Haddad",
+      "grade": "Professeur (Démo)",
+      "email": "y.haddad@umbb-demo.edu",
+      "bureau": "Campus Ouest · Hall Mécanique C"
+    },
+    "coordonnees": {
+      "batiment": "Campus Ouest — Cité Frantz Fanon, 35000 Boumerdès",
+      "telephone": "Secrétariat Génie Mécanique (Démo)",
+      "emailSecretariat": "ft.gm@umbb-demo.edu",
+      "horairesAccueil": "Dimanche au Jeudi · 08h30 – 15h00"
+    },
+    "image": "./assets/images/dept_mechanics_civil_1795627238276.jpg",
+    "laboratoires": [
+      "Halle Fabrication Mécanique & Commande Numérique",
+      "Laboratoire Mécanique des Fluides & Thermodynamique",
+      "Salle CAO/FAO et Simulation Structurale"
+    ],
+    "niveaux": ["L3", "M1", "M2"],
+    "specialites": [
+      {
+        "id": "cm-l3",
+        "nom": "Construction Mécanique",
+        "niveau": "L3",
+        "groupes": ["G1"]
+      },
+      {
+        "id": "ener-m1",
+        "nom": "Énergétique Industrielle",
+        "niveau": "M1",
+        "groupes": ["G1"]
+      },
+      {
+        "id": "prod-m2",
+        "nom": "Productique & Robotique Industrielle",
+        "niveau": "M2",
+        "groupes": ["G1"]
+      }
+    ]
+  },
+  {
+    "id": "gci",
+    "code": "GC",
+    "faculte": "Faculté de Technologie",
+    "nom": "Département de Génie Civil",
+    "nomCourt": "Génie Civil",
+    "description": "Département de la Faculté de Technologie (Campus Ouest, Cité Frantz Fanon) : structures parasismiques, géotechnique, matériaux et travaux publics.",
+    "presentationLongue": "Le Département de Génie Civil de la Faculté de Technologie de l'UMBB (Cité Frantz Fanon, Boumerdès) forme des cadres spécialisés dans le calcul des ouvrages d'art, le génie parasismique, les matériaux durables et la géotechnique.",
+    "responsable": {
+      "nom": "Dr. Samir Khelifi",
+      "grade": "Maître de Conférences A (Démo)",
+      "email": "s.khelifi@umbb-demo.edu",
+      "bureau": "Campus Ouest · Bloc D · 201"
+    },
+    "coordonnees": {
+      "batiment": "Campus Ouest — Cité Frantz Fanon, 35000 Boumerdès",
+      "telephone": "Secrétariat Génie Civil (Démo)",
+      "emailSecretariat": "ft.gc@umbb-demo.edu",
+      "horairesAccueil": "Dimanche au Jeudi · 09h00 – 15h30"
+    },
+    "image": "./assets/images/dept_mechanics_civil_1795627238276.jpg",
+    "laboratoires": [
+      "Laboratoire Essais des Matériaux & Bétons",
+      "Laboratoire Géotechnique & Mécanique des Sols",
+      "Salle Topographie & Modélisation BIM"
+    ],
+    "niveaux": ["L3", "M1", "M2"],
+    "specialites": [
+      {
+        "id": "tp-l3",
+        "nom": "Génie Civil & Travaux Publics",
+        "niveau": "L3",
+        "groupes": ["G1"]
+      },
+      {
+        "id": "struct-m1",
+        "nom": "Structures & Ouvrages d'Art",
+        "niveau": "M1",
+        "groupes": ["G1"]
+      },
+      {
+        "id": "geotech-m2",
+        "nom": "Géotechnique & Parasismique",
+        "niveau": "M2",
+        "groupes": ["G1"]
+      }
+    ]
+  },
+  {
+    "id": "gpe",
+    "code": "GP",
+    "faculte": "Faculté de Technologie",
+    "nom": "Département de Génie des Procédés",
+    "nomCourt": "Génie des Procédés",
+    "description": "Département de la Faculté de Technologie (Campus Ouest, Cité Frantz Fanon) : génie chimique, procédés de l'environnement et technologie alimentaire.",
+    "presentationLongue": "Le Département de Génie des Procédés de la Faculté de Technologie (UMBB Boumerdès) développe les compétences en transformation de la matière, génie des réacteurs, traitement des eaux et procédés industriels propres.",
+    "responsable": {
+      "nom": "Pr. Amel Bouzid",
+      "grade": "Professeur (Démo)",
+      "email": "a.bouzid@umbb-demo.edu",
+      "bureau": "Campus Ouest · Bloc E · 108"
+    },
+    "coordonnees": {
+      "batiment": "Campus Ouest — Cité Frantz Fanon, 35000 Boumerdès",
+      "telephone": "Secrétariat Génie des Procédés (Démo)",
+      "emailSecretariat": "ft.gp@umbb-demo.edu",
+      "horairesAccueil": "Dimanche au Jeudi · 08h30 – 15h00"
+    },
+    "image": "./assets/images/dept_telecom_lab_1795627236264.jpg",
+    "laboratoires": [
+      "Laboratoire Opérations Unitaires & Réacteurs",
+      "Plateforme Traitement des Eaux & Analyse Physico-Chimique"
+    ],
+    "niveaux": ["L3", "M1", "M2"],
+    "specialites": [
+      {
+        "id": "gc-l3",
+        "nom": "Génie Chimique",
+        "niveau": "L3",
+        "groupes": ["G1"]
+      },
+      {
+        "id": "env-m2",
+        "nom": "Génie de l'Environnement",
+        "niveau": "M2",
+        "groupes": ["G1"]
+      }
+    ]
+  },
+  {
+    "id": "fs-sc",
+    "code": "MATH-PHY",
+    "faculte": "Faculté des Sciences",
+    "nom": "Mathématiques, Physique & Chimie",
+    "nomCourt": "Sciences Fondamentales (FS)",
+    "description": "Pôle des départements scientifiques de la Faculté des Sciences (Campus Sud, Route de la Gare Ferroviaire, Boumerdès) : Mathématiques, Physique, Chimie et Biologie.",
+    "presentationLongue": "Regroupant les départements fondamentaux de la Faculté des Sciences de l'Université M'Hamed Bougara de Boumerdès (Campus Sud, Route de la Gare Ferroviaire), ce pôle accompagne les parcours Mathématiques appliquées, Physique des matériaux, Chimie analytique, Biologie et Agronomie.",
+    "responsable": {
+      "nom": "Pr. Rachid Boudiaf",
+      "grade": "Professeur (Démo)",
+      "email": "r.boudiaf@umbb-demo.edu",
+      "bureau": "Campus Sud · Route de la Gare · Bât. Sciences"
+    },
+    "coordonnees": {
+      "batiment": "Campus Sud — Route de la Gare Ferroviaire, 35000 Boumerdès",
+      "telephone": "Secrétariat Faculté des Sciences (Démo)",
+      "emailSecretariat": "fs.sciences@umbb-demo.edu",
+      "horairesAccueil": "Dimanche au Jeudi · 08h30 – 16h00"
+    },
+    "image": "./assets/images/news_conference_hall_1795627237347.jpg",
+    "laboratoires": [
+      "Laboratoire Modélisation Mathématique & Analyse Numérique",
+      "Laboratoire Physique des Matériaux & Spectroscopie",
+      "Laboratoire Chimie Organique & Analyse"
+    ],
+    "niveaux": ["L3", "M1", "M2"],
+    "specialites": [
+      {
+        "id": "math-l3",
+        "nom": "Mathématiques Appliquées",
+        "niveau": "L3",
+        "groupes": ["G1"]
+      },
+      {
+        "id": "phys-m2",
+        "nom": "Physique des Matériaux",
+        "niveau": "M2",
+        "groupes": ["G1"]
+      }
+    ]
+  }
+]
